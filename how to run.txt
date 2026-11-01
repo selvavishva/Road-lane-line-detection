@@ -1,0 +1,9 @@
+1.click to open Copy of lane detection (1)
+2. run github file
+3.import the Libraries
+   pip install matplotlib
+   pip install docopt
+   pip install moviepy
+   pip install cv2
+4.then run program in colab
+    
